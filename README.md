@@ -1,1 +1,3 @@
-# WebBrowserDisplay
+## WebBrowserDisplay
+簡易利用Browser當成撥放器使用 Windows/Linux需要些不同的條件及chromedriver.exe的版本
+先在Windows下測試
