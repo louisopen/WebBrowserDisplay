@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #coding:utf-8
-#簡易利用Browser當成撥放器使用,Windows/Linux需要些不同的條件及chromedriver.exe的版本
+#簡易利用Windows/Linux Chrome Browser當成播放器使用,Windows/Linux需要些不同的條件及chromedriver.exe的版本
 #You may need as:
 #sudo pip install selenium
 
